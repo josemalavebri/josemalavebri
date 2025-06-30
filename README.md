@@ -1,8 +1,8 @@
 <!-- Encabezado -->
 <div align="center">
-  <h1>👨‍💻 Jose Malavé Brito</h1>
-  <p><strong>Estudiante de Ingeniería en Software</strong></p>
-  <p>Apasionado por el desarrollo de software | C# • Java • Flutter • Bases de datos</p>
+  <h1>👨‍💻 Jose Malavé Briones</h1>
+  <p><strong>Estudiante de Ingeniería en Software </strong></p>
+  <p>Desarrollador ágil, pragmatico y en constante mejora </p>
 </div>
 
 <br/>
