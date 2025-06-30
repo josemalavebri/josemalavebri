@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👨‍💻 Jose Malavé Briones</h1>
   <p><strong>Estudiante de Ingeniería en Software </strong></p>
-  <p>Desarrollador ágil, pragmatico y en constante mejora </p>
+  <p>Desarrollador ágil, pragmatico y en mejora continua</p>
 </div>
 
 <br/>
@@ -10,9 +10,8 @@
 <!-- Sobre mí -->
 <h2>📌 Sobre mí</h2>
 <ul>
-  <li>🎯 Me especializo en desarrollo de software con enfoque en aplicaciones móviles y web.</li>
-  <li>🚀 Aprendiendo continuamente sobre nuevas tecnologías y buenas prácticas de programación.</li>
-  <li>📚 Me interesa enseñar y compartir conocimientos sobre lógica y programación.</li>
+  <li>🎯 Me especializo en desarrollo de software empresarial y sistemas backend RPC.</li>
+  <li>🚀 Mejoro constantemente en tecnologías backends y aprendo buenas prácticas de programación.</li>
 </ul>
 
 <br/>
