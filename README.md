@@ -37,10 +37,7 @@
 <!-- Contacto -->
 <h2>📫 Contacto</h2>
 <p>
-  Si quieres hablar sobre proyectos, ideas o simplemente saludar:
 </p>
 <ul>
-  <li>📧 Email: <strong>josemalavebri@example.com</strong></li>
-  <li>💬 Discord: <strong>josemalavebri#1234</strong></li>
-  <li>🌐 LinkedIn: [linkedin.com/in/josemalavebri](https://www.linkedin.com)</li>
+  <li>📧 Email: <strong>josemalavebri@gmail.com</strong></li>
 </ul>
