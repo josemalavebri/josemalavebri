@@ -21,36 +21,51 @@
 <br/>
 
 <!-- Tecnologías -->
-<h2>🧰 Tecnologías y herramientas</h2>
+<h2 align="center">🧰 Tecnologías y herramientas</h2>
 
-<h3>💻 Frontend</h3>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 💻 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
+
+<b>ASP.NET Core • MVC • Web API • Entity Framework • LINQ • xUnit</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄️ Base de datos
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+<b>SQL • T-SQL • SQL Server</b>
+
+</td>
+<td align="center">
+
+### 🛠️ Herramientas
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio&theme=dark" />
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular&theme=dark" />
+
+### 🏛️ Arquitectura y buenas prácticas
+
+**DDD • MVC • MVVM • Clean Code • Code Smells**
+
 </div>
-
-<h3>⚙️ Backend</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
-</div>
-
-<h3>🗄️ Base de datos</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</div>
-
-<p align="center">
-</p>
-
-<h3>🛠️ Herramientas</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio&theme=dark" />
-</div>
-
-<h3>🏛️ Arquitectura y buenas prácticas</h3>
-
-<p align="center">
-  <strong>DDD •MVC •MVVM •Clean Code •Code Smells</strong>
-</p>
 
 <br/>
 
