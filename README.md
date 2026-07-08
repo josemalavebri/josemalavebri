@@ -21,12 +21,37 @@
 <br/>
 
 <!-- Tecnologías -->
-<h2>🧰 Tecnologías que uso</h3>
+<h2>🧰 Tecnologías y herramientas</h2>
+
+<h3>💻 Frontend</h3>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,flutter,html,css,js,mysql,git&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular&theme=dark" />
 </div>
+
+<h3>⚙️ Backend</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
+</div>
+
+<h3>🗄️ Base de datos</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</div>
+
+<p align="center">
+  <strong>SQL • T-SQL • SQL Server • Entity Framework • ASP.NET Core MVC • ASP.NET Core Web API • LINQ • xUnit</strong>
+</p>
+
+<h3>🛠️ Herramientas</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio&theme=dark" />
+</div>
+
+<h3>🏛️ Arquitectura y buenas prácticas</h3>
+
+<p align="center">
+  <strong>DDD • MVC • MVVM • Clean Code • Code Smells</strong>
+</p>
 
 <br/>
 
