@@ -21,7 +21,7 @@
 <br/>
 
 <!-- Tecnologías -->
-<h2 align="center">🧰 Tecnologías y herramientas</h2>
+<h2 align="center">🧰 Tecnologías y herramientas que uso</h2>
 
 <table align="center">
 <tr>
@@ -88,8 +88,6 @@
 
 <!-- Contacto -->
 <h2>📫 Contacto</h2>
-<p>
-</p>
-<ul>
-  <li>📧 Email: <strong>josemalavebri@gmail.com</strong></li>
-</ul>
+<a href="mailto:josemalavebri@outlook.com">
+  <img src="https://img.shields.io/badge/Email-josemalavebri%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
