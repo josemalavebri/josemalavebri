@@ -88,6 +88,9 @@
 
 <!-- Contacto -->
 <h2>📫 Contacto</h2>
-<a href="mailto:josemalavebri@outlook.com">
-  <img src="https://img.shields.io/badge/Email-josemalavebri%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-</a>
+<p>
+</p>
+<ul>
+  <li> Email: <strong>josemalavebri@outlook.com</strong></li>
+  <li> Telefono: <strong>0988338901/strong></li>
+</ul>
