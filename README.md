@@ -8,10 +8,14 @@
 <br/>
 
 <!-- Sobre mí -->
-<h2>📌 Sobre mí</h2>
+<h2>📌Sobre mí</h2>
 <ul>
-  <li>🎯 Me especializo en desarrollo de software empresarial y sistemas backend RPC.</li>
-  <li>🚀 Mejoro constantemente en tecnologías backends y aprendo buenas prácticas de programación.</li>
+  <li>Me especializo en desarrollo de software empresarial (ERP), (RPC) y (SMC).</li>
+  <li>Tengo experiencia participando en el desarrollo y evolución de sistemas empresariales utilizados en entornos productivos.</li>
+  <li>He contribuido a la modernización de aplicaciones legacy, facilitando su mantenimiento y evolución.</li>
+  <li>Me enfoco en desarrollar soluciones que optimicen procesos y mejoren la eficiencia operativa de las organizaciones.</li>
+  <li>Me interesa comprender el negocio detrás del software para crear soluciones alineadas con las necesidades del usuario.</li>
+  <li>Mantengo una formación continua para fortalecer tanto mis conocimientos técnicos como mi capacidad para resolver problemas.</li>
 </ul>
 
 <br/>
@@ -20,7 +24,7 @@
 <h2>🧰 Tecnologías que uso</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,flutter,html,css,js,mysql,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,java,flutter,html,css,js,mysql,git&theme=dark" />
   </a>
 </div>
 
