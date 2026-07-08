@@ -92,5 +92,5 @@
 </p>
 <ul>
   <li> Email: <strong>josemalavebri@outlook.com</strong></li>
-  <li> Telefono: <strong>0988338901/strong></li>
+  <li> Telefono: <strong>0988338901</strong></li>
 </ul>
