@@ -40,7 +40,7 @@
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
 
-<br><br>
+<br>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LINQ-5C2D91?style=for-the-badge" />
@@ -55,6 +55,7 @@
 ### 🗄️ Base de datos
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<br>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
 <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge" />
