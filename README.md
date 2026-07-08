@@ -39,7 +39,6 @@
 </div>
 
 <p align="center">
-  <strong>SQL • T-SQL • SQL Server • Entity Framework • ASP.NET Core MVC • ASP.NET Core Web API • LINQ • xUnit</strong>
 </p>
 
 <h3>🛠️ Herramientas</h3>
@@ -50,18 +49,11 @@
 <h3>🏛️ Arquitectura y buenas prácticas</h3>
 
 <p align="center">
-  <strong>DDD • MVC • MVVM • Clean Code • Code Smells</strong>
+  <strong>DDD •MVC •MVVM •Clean Code •Code Smells</strong>
 </p>
 
 <br/>
 
-<!-- Estadísticas -->
-<h2>📊 Estadísticas</h2>
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=josemalavebri&layout=compact&theme=graywhite&hide_border=true" />
-</div>
-
-<br/>
 
 <!-- Contacto -->
 <h2>📫 Contacto</h2>
