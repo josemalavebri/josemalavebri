@@ -42,10 +42,10 @@
 
 <br><br>
 
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">ASP.NET Core</span>
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">Entity Framework</span>
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">LINQ</span>
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">xUnit</span>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LINQ-5C2D91?style=for-the-badge" />
+<img src="https://img.shields.io/badge/xUnit-9146FF?style=for-the-badge" />
 
 </td>
 
@@ -61,9 +61,9 @@
 
 <br><br>
 
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">SQL Server</span>
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">SQL</span>
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">T-SQL</span>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge" />
 
 </td>
 
@@ -83,18 +83,17 @@
 
 ### 🏛️ Arquitectura y buenas prácticas
 
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">DDD</span>
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">MVC</span>
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">MVVM</span>
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">Clean Code</span>
-<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">Code Smells</span>
+<img src="https://img.shields.io/badge/DDD-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MVC-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MVVM-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean_Code-3CB371?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Code_Smells-FF9800?style=for-the-badge" />
 
 </td>
 
 </tr>
 
 </table>
-
 
 <!-- Contacto -->
 <h2>📫 Contacto</h2>
