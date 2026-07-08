@@ -41,32 +41,24 @@
 <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
 
 <br><br>
-
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LINQ-5C2D91?style=for-the-badge" />
 <img src="https://img.shields.io/badge/xUnit-9146FF?style=for-the-badge" />
-
 </td>
 
 </tr>
 
 <tr>
-
 <td align="center" valign="top">
 
 ### 🗄️ Base de datos
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-<br><br>
-
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
 <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge" />
-
 </td>
-
 <td align="center" valign="top">
 
 ### 🛠️ Herramientas
@@ -82,13 +74,11 @@
 <td colspan="2" align="center" valign="top">
 
 ### 🏛️ Arquitectura y buenas prácticas
-
 <img src="https://img.shields.io/badge/DDD-0A66C2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MVC-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MVVM-00897B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Clean_Code-3CB371?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Code_Smells-FF9800?style=for-the-badge" />
-
 </td>
 
 </tr>
