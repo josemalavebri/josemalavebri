@@ -25,49 +25,75 @@
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+
+<td align="center" width="50%" valign="top">
 
 ### 💻 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular&theme=dark" />
 
 </td>
-<td align="center" width="50%">
+
+<td align="center" width="50%" valign="top">
 
 ### ⚙️ Backend
+
 <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
 
-<b>ASP.NET Core • MVC • Web API • Entity Framework • LINQ • xUnit</b>
+<br><br>
+
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">ASP.NET Core</span>
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">Entity Framework</span>
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">LINQ</span>
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">xUnit</span>
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center">
+
+<td align="center" valign="top">
 
 ### 🗄️ Base de datos
+
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
-<b>SQL • T-SQL • SQL Server</b>
+<br><br>
+
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">SQL Server</span>
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">SQL</span>
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">T-SQL</span>
 
 </td>
-<td align="center">
+
+<td align="center" valign="top">
 
 ### 🛠️ Herramientas
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio&theme=dark" />
 
 </td>
-</tr>
-</table>
 
-<div align="center">
+</tr>
+
+<tr>
+
+<td colspan="2" align="center" valign="top">
 
 ### 🏛️ Arquitectura y buenas prácticas
 
-**DDD • MVC • MVVM • Clean Code • Code Smells**
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">DDD</span>
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">MVC</span>
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">MVVM</span>
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">Clean Code</span>
+<span style="display:inline-block;padding:4px 10px;margin:3px;border-radius:8px;background:#30363d;color:#fff;">Code Smells</span>
 
-</div>
+</td>
 
-<br/>
+</tr>
+
+</table>
 
 
 <!-- Contacto -->
